@@ -39,7 +39,7 @@ Prompt:
 Gerar a seguinte imagem a ser utilizada na capa do e-book para o qual solicitei sugestão de títulos: uma bandeija de brigadeiros coloridos e divertidos, em um ambiente de magia, no estilo cartoon clássico minimalista, colorido, fofo e divertido, e com uma moldura de tela do Instagram.
 
 Ação: 
-Inteodução
+Introdução
 
 Prompt:
 Gere uma pequena introdução para esse e-book. Em linguagem para crianças de 10 anos e bem divertida.
