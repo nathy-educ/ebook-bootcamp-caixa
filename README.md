@@ -1,18 +1,26 @@
 # ebook-bootcamp-caixa
 Desafio de Projeto E-book: Bootcamp CAIXA - IA Generativa com Microsoft Copilot
 
+
+
 Projeto EBOOK Gerado por I.A.s
 
+
 ℹ️ NOTE: Este é o repositório desenvolvido durante o curso Bootcamp CAIXA - IA Generativa com Microsoft Copilot
+
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. 
 Todos os prompts seguem abaixo.
 
+
 💻 Tecnologias utilizadas no projeto
 
 ChatGPT
+
 DALL.E através do ChatGPT
+
 PowerPoint
+
 
 🧠 Prompts
 
@@ -43,10 +51,12 @@ Prompt:
 Gere 5 receitas diferentes de brigadeiro a serem preparadas por crianças de 10 anos. Receitas simples e fáceis de preparar. Com coberturas coloridas e divertidas. Com linguagem que remeta à magia.
 
 
+
 ✨ Features
 
 Conteúdo gerado via ChatGPT
 Imagens geradas via DALL.E (ChatGPT)
+
 
 📚 Materiais
 
