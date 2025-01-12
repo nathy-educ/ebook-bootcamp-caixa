@@ -55,12 +55,15 @@ Gere 5 receitas diferentes de brigadeiro a serem preparadas por crianças de 10 
 ✨ Features
 
 Conteúdo gerado via ChatGPT
+
 Imagens geradas via DALL.E (ChatGPT)
 
 
 📚 Materiais
 
 Imagem utilizada na capa
+
 Logo GitHub
+
 E-book gerado para o desafio
 
